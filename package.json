@@ -2,7 +2,7 @@
   "name": "ts_study",
   "version": "1.0.0",
   "description": "about ts",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "rimraf dist && tsc",
     "test": "mocha --reporter spec"
