@@ -1,6 +1,6 @@
 {
   "name": "ts_study",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "about ts",
   "main": "dist/index.js",
   "scripts": {
