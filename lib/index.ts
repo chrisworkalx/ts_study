@@ -4,7 +4,7 @@
  * @Autor: yaomingfei
  * @Date: 2020-01-06 14:35:14
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2020-11-20 10:21:16
+ * @LastEditTime: 2020-11-20 10:35:26
  */
 // # 非常简单的加法函数
 export function add(a:number, b:number) : number {
@@ -12,3 +12,5 @@ export function add(a:number, b:number) : number {
 }
 
 export const a = 123;
+
+export const b = 456;
