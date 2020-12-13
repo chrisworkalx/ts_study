@@ -4,7 +4,7 @@
  * @Autor: yaomingfei
  * @Date: 2020-01-06 14:35:14
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2020-11-20 10:53:55
+ * @LastEditTime: 2020-12-13 13:44:04
  */
 // # 非常简单的加法函数
 export function add(a:number, b:number) : number {
@@ -16,4 +16,7 @@ export const a = 123;
 export const b = 666;
 export const c = '哈喽';
 
-export const d = 'one';
+export const demo = '<h1>ggggg</h1>';
+
+console.log(1111, 'nnnnnnn');
+export const age = () => 12;
