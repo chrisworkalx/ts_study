@@ -1,11 +1,3 @@
-/*
- * @Description: 
- * @Version: 2.0
- * @Autor: yaomingfei
- * @Date: 2020-01-06 14:35:14
- * @LastEditors: Please set LastEditors
- * @LastEditTime: 2020-12-13 16:46:40
- */
 // # 非常简单的加法函数
 export function add(a:number, b:number) : number {
   return a + b + 123 + 456 + 789;
@@ -42,3 +34,4 @@ export const finalStr = 'git merge 会将时间线全部保留到最后' + str;
 
 let newRebase_study = '让我们重新学习一下git rebase的真正用法！！';
 export const bb = 'ymf_b分支先commit一条记录先, 但是还没有合并';
+let hello = '哈喽';
