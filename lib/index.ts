@@ -35,4 +35,4 @@ export const finalStr = 'git merge 会将时间线全部保留到最后' + str;
 let newRebase_study = '让我们重新学习一下git rebase的真正用法！！';
 export const bb = 'ymf_b分支先commit一条记录先, 但是还没有合并';
 let hello = '哈喽';
-const y1 = 10;
+const y1 = 107777;
