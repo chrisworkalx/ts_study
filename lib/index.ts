@@ -4,7 +4,7 @@
  * @Autor: yaomingfei
  * @Date: 2020-01-06 14:35:14
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2020-12-13 13:49:37
+ * @LastEditTime: 2020-12-13 15:53:16
  */
 // # 非常简单的加法函数
 export function add(a:number, b:number) : number {
@@ -24,3 +24,5 @@ console.log(1111);
 
 const name = 'andy';
 export const newName = name;
+
+export const b_name = '我是b分支用于测试git命令学习';
