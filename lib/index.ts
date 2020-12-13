@@ -4,7 +4,7 @@
  * @Autor: yaomingfei
  * @Date: 2020-01-06 14:35:14
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2020-12-13 15:55:58
+ * @LastEditTime: 2020-12-13 16:04:57
  */
 // # 非常简单的加法函数
 export function add(a:number, b:number) : number {
@@ -31,3 +31,6 @@ let aName = '我是测试1分支，用于学习git命令';
 export const _Ainfo = {
     name: aName
 }
+
+let str = '我们在学习git rebase 和 git merge之间的真正区别';
+export const finalStr = 'git merge 会将时间线全部保留到最后' + str;
